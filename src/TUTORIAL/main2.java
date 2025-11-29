@@ -4,7 +4,17 @@ public class main2 {
     public static void main (String [] args) {
         // VARIABLE = A container used to hold/represent data.
         // Primitive = Simple value stored directly in memory (stack)
+
         // Reference = Memory address (stack) that points to the heap
+
+
+        // Primitive = Stores the real value itself
+        // Reference = They store a reference (a link) to where the object lives in memory.
+
+        //Primitive = i hold the value
+        // Reference = i hold the address of the value
+
+
 
 
         // Primitive Vs Reference
