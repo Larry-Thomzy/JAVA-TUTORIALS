@@ -19,7 +19,7 @@ public class excer {
 
         area = width * height;
 
-        System.out.println("The area is " + area + "cm");
+        System.out.println("The area is " + area + "cm²");
 
 
         input.close();
