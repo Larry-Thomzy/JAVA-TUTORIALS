@@ -38,9 +38,9 @@ public class forLoop {
         System.out.println("HAPPY NEW YEAR !!");
 
 
-//        NOTE: Use a for loop when you want to do something a limted amount of times
+//        NOTE: Use a for loop when you want to do something a limited amount of times
 
         // This exception typically occurs when a thread running the method is interrupted while it is sleeping,
-        // waiting, or otherwise paused in its excecution
+        // waiting, or otherwise paused in its execution
     }
 }
