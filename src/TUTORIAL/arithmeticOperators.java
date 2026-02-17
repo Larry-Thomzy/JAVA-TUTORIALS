@@ -18,7 +18,7 @@ public class arithmeticOperators {
 
         System.out.println(z);
 
-        // Argumented Assignment Operators
+        // Argument Assignment Operators
         x = x + y;
 
         System.out.println(x);

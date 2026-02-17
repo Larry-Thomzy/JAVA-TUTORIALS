@@ -40,7 +40,6 @@ public class arrays {
             System.out.println(fruit);
         }
 
-        // 5:12:46
 
 
     }

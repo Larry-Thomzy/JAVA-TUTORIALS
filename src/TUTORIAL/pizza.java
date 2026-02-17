@@ -2,7 +2,7 @@ package TUTORIAL;
 
 public class pizza {
     public static void main (String [] args) {
-        String pizza = bakePizza("flat read");
+        String pizza = bakePizza("flat bread");
         System.out.println(pizza);
 
         pizza = bakePizza("flat bread", "mozzarella");

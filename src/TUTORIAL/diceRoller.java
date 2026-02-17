@@ -98,7 +98,5 @@ public class diceRoller {
             default -> System.out.print("Invalid roll");
         }
 
-
-
     }
 }
