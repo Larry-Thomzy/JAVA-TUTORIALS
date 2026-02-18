@@ -5,11 +5,11 @@ import java.util.Scanner;
 public class arrays2 {
     public static void main (String [] args) {
         Scanner input = new Scanner(System.in);
-//
-//        String[] foods = {};
+
+//      String[] foods = {};
 //
 //        foods[0] = "pizza";
-
+//
 //        String [] foods = new String [3];
 //        foods[0] = "pizza";
 //        foods[1] = "taco";

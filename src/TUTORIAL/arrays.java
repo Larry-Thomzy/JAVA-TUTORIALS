@@ -7,7 +7,6 @@ public class arrays {
         // array = a collection of values of the same data type
         //         * think of it as a variable that can store more than 1 value *
 
-
         String[] fruits = {"apple", "orange", "banana", "coconut"};
         System.out.println(fruits); // this would return a memory address, because its a reference variable
         System.out.println(fruits[0]); // we access it through index/indices
