@@ -42,6 +42,5 @@ public class arrays3 {
             System.out.println("Element not found in the array");
 
         }
-// 5:28:12
     }
 }
