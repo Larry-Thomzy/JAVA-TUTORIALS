@@ -20,7 +20,6 @@ public class two_dimensional_array {
         groceries2 [1][2] = "celery"; // changing the "carrot" to "celery"
         groceries2 [2][1] = "eggs"; //  changing the "pork" to "eggs"
 
-        
 
 
         for (String [] foods : groceries) {
