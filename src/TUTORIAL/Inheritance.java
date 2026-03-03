@@ -24,6 +24,5 @@ public class Inheritance {
 
         plant.photosynthesize();
 
-
     }
 }
