@@ -30,7 +30,19 @@ public class WrapperClasses {
         String p = g + k + j + q;
         System.out.println(p);
 
-        // 8:51:35
+        int e = Integer.parseInt("123");
+        double f = Double.parseDouble("3.14");
+        char h = "Pizza".charAt(0);
+        boolean i = Boolean.parseBoolean("true");
+
+
+        char letter = 'g';
+        char letter2 = '$';
+        System.out.println(Character.isLetter(letter));
+        System.out.println(Character.isLetter(letter2));
+        System.out.println(Character.isUpperCase(letter));
+
+
 
     }
 }
