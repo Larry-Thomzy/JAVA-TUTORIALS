@@ -35,5 +35,25 @@ public class fileWriting {
             System.out.println("Could not write file");
 
         }
+
+        // An organized way to do this is to pass the file path and text content into variables
+
+        String filePath = "C:\\Users\\LANRE\\Desktop\\test2.txt";
+        String textContent = """
+                Roses are Red
+                Violets are Blue
+                I Love you, but 
+                I love coding More !!!
+                """;
+
+        try(FileWriter writer = new FileWriter(filePath);){
+            writer.write(textContent);
+        }
+        catch (FileNotFoundException e) {
+            System.out.println("Could not locate file");
+        }
+        catch (IOException e) {
+            System.out.println("Could not write file");
+        }
     }
 }
