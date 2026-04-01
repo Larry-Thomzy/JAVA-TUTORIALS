@@ -9,7 +9,6 @@ public class WrapperClasses {
 
         //int a = 123; // regular variable declaration
 
-
         // Autoboxing
         Integer a = 123;
         Double b = 3.14;
