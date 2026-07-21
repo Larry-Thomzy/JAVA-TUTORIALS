@@ -32,6 +32,9 @@ public class methods {
             // DRY = (Don't Repeat Yourself)
 
         happyBirthday(name, age);
+
+
+
         double result = square(5);
 
         System.out.println(result);
@@ -49,6 +52,7 @@ public class methods {
         System.out.printf("You are %d years old!\n", age );
         System.out.println("Happy Birthday to you!\n");
     }
+
     static double square (double number) {
         return number * number;
     }

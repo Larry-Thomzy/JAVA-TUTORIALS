@@ -45,14 +45,14 @@ public class enhancedSwitches {
         System.out.print("Enter the day of the week:");
         String Day = input.nextLine();
 
-        switch (Day){
-            case "Monday" -> System.out.println("It's a weekday 😩");
-            case "Tuesday" -> System.out.println("It's a weekday 😩");
-            case "Wednesday" -> System.out.println("It's a weekday 😩");
-            case "Thursday" -> System.out.println("It's a weekday 😩");
-            case "Friday" -> System.out.println("It's a weekday 😩");
-            case "Saturday" -> System.out.println("It's the weekend 🙂");
-            case "Sunday" -> System.out.println("It's the weekend 🙂");
+        switch (Day.toLowerCase()){
+            case "monday" -> System.out.println("It's a weekday 😩");
+            case "tuesday" -> System.out.println("It's a weekday 😩");
+            case "wednesday" -> System.out.println("It's a weekday 😩");
+            case "thursday" -> System.out.println("It's a weekday 😩");
+            case "friday" -> System.out.println("It's a weekday 😩");
+            case "saturday" -> System.out.println("It's the weekend 🙂");
+            case "sunday" -> System.out.println("It's the weekend 🙂");
             default -> System.out.println(Day + " is not a day");
 
         }

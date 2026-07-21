@@ -18,7 +18,7 @@ public class quiz {
         String[] questions = {
                 "What is the main function of a router?",
                 "Which part of the computer is considered the brain?",
-                "What year wa facebook launched",
+                "What year was facebook launched",
                 "Who is known as the father of computer?",
                 "What was the first programming language?"
         };
@@ -27,7 +27,7 @@ public class quiz {
                 {"1. Storing files", "2. Encrypting Data", "3. Directing internet traffic", "4. Managing passwords"},
                 {"1. CPU", "2. Hard drive", "3. RAM", "4. GPU"},
                 {"1. 2000", "2. 2004", "3. 2006", "4. 2008"},
-                {"1. Steve Jobs", "2. Billl Gates", "3. Alan Turing", "4. Charles Babbage"},
+                {"1. Steve Jobs", "2. Bill Gates", "3. Alan Turing", "4. Charles Babbage"},
                 {"1. COBOL", "2. C", "3. FORTRAN", "4. Assembly"}
         };
 

@@ -8,10 +8,10 @@ public class staticKeywords {
 
         // proceed to friend
 
-        Friend friend1 = new Friend("Caleb");
-        Friend friend2 = new Friend("Faruk");
-        Friend friend3 = new Friend("Onome");
-        Friend friend4 = new Friend("Nifsee");
+        Friend friend1 = new Friend("Collins");
+        Friend friend2 = new Friend("Burundi");
+        Friend friend3 = new Friend("Femi");
+        Friend friend4 = new Friend("Salim");
 
 
 

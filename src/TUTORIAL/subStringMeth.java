@@ -35,5 +35,4 @@ public class subStringMeth {
 
         input.close();
     }
-    // 2:27:02
 }
