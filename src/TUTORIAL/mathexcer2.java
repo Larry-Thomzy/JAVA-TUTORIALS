@@ -29,7 +29,7 @@ public class mathexcer2 {
 
         System.out.println();
 
-        System.out.printf("The Circumference is: %.1fcm\n" , circumference);
+        System.out.printf("The Circumference is: %.2fcm\n" , circumference);
         System.out.printf("The area is: %.1fcm²\n" , area );
         System.out.printf("The volume is: %.1fcm³\n" , volume);
 

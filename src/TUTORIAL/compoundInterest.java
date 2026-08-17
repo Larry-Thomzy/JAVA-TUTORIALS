@@ -28,9 +28,11 @@ public class compoundInterest {
 
         amount = principal * Math.pow(1 + rate / timesCompounded, timesCompounded * years);
 
-        System.out.printf("The amount after %d is: $%,.2f",years,amount);
+        System.out.printf("The amount after %d years is: $%,.2f",years,amount);
 
         input.close();
+//        PEMDAS -- Please excuse my dear aunty sally
+//        Parenthesis, Exponential, Multiplication, Division, Addition, Subtraction
 
     }
 }

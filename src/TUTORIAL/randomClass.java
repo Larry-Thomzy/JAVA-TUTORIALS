@@ -29,6 +29,7 @@ public class randomClass {
 
         // Boolean
         isHeads = ram.nextBoolean();
+        System.out.println(isHeads);
 
         if (isHeads) {
             System.out.println("Heads");
@@ -36,10 +37,5 @@ public class randomClass {
         else {
             System.out.println("Tails");
         }
-
-
-
-
-
     }
 }

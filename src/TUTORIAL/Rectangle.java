@@ -16,5 +16,3 @@ public class Rectangle extends Shape {
     }
 }
 
-
-// 8: 01: 31
