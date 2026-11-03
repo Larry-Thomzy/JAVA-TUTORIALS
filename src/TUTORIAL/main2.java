@@ -43,6 +43,7 @@ public class main2 {
         System.out.println("The Year is " + year);
 
 
+
         // Double, are numbers but it can contain a decimal portion unlike ints e.g 0.1, 2.5, 2.45, 3.147
 
         double price = 19.99;

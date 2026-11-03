@@ -13,6 +13,14 @@ public class arrays {
 
         fruits[0] = "pineapple";
 
+        String [] names = new String [3];
+        names[0] = "Larry";
+        names [1] = "Bolanle";
+        names [2] = "Charles";
+
+        int[] nums = new int[5];
+
+
         System.out.println(fruits[0]);
 
         int numOFruits = fruits.length; // the length properties returns the number of values in an array
@@ -32,6 +40,7 @@ public class arrays {
         for (String fruit: fruits) {   // Enhanced for loop
             System.out.println(fruit);
         }
+
 
         Arrays.fill(fruits, "pineapple"); // fill method replaces all values in an array with a specific value
 

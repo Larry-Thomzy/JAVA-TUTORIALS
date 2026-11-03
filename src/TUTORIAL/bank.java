@@ -9,6 +9,7 @@ public class bank {
         // JAVA BANKING PROGRAM FOR BEGINNERS
 
         // DECLARE VARIABLES
+
         double balance = 0;
         boolean isRunning = true;
         int choice;

@@ -11,7 +11,7 @@ public class subStringMeth {
         String domain;
 
         System.out.print("Enter your Email: ");
-        email = input.nextLine();
+        email = input.nextLine(); // larrythomzy@gmail.com
 
         if (email.contains("@")) {
              username = email.substring(0, email.indexOf("@"));

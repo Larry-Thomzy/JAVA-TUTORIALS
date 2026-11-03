@@ -25,9 +25,9 @@ public class nestedLoop {
         int columns;
 
         System.out.print("Enter the number of rows: ");
-        rows = input.nextInt();
+        rows = input.nextInt(); //1
         System.out.print("Enter the number of columns: ");
-        columns = input.nextInt();
+        columns = input.nextInt(); //6
         System.out.println();
 
 
@@ -39,3 +39,4 @@ public class nestedLoop {
         }
     }
 }
+// Task

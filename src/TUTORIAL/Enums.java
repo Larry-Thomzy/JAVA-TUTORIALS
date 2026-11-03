@@ -14,9 +14,9 @@ public class Enums {
         System.out.print("Enter a day of the week: ");
         String response = input.nextLine().toUpperCase();
 
-//        Day day = Day.SUNDAY;
-//        System.out.println(day);
-//        System.out.println(day.getDayNumber());
+        Day day2 = Day.SUNDAY;
+        System.out.println(day2);
+        System.out.println(day2.getDayNumber());
         try {
             Day day = Day.valueOf(response);
             switch (day) {

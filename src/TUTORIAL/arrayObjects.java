@@ -13,7 +13,6 @@ public class arrayObjects {
 
         for (Truck truck : trucks) {
                 truck.drive();
-
         }
     }
 

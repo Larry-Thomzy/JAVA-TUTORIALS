@@ -8,7 +8,7 @@ public class variableScope {
 
         // Variable scope  = where a variable can be accessed
 
-        //int x = 1; // Local
+        int x = 1; // Local
         System.out.println(x);
 
         doSomething();
@@ -16,7 +16,7 @@ public class variableScope {
     }
 
     static void doSomething() {
-        //int x = 2; // Local
+        int x = 2; // Local
         System.out.println(x);
     }
 

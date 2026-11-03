@@ -9,7 +9,7 @@ public class superKeyword {
 
         Person person = new Person("Tom", "Cruise");
         Student2 student = new Student2("Harry", "Potter", 4.45);
-        Employee employee = new Employee("Tom", "Bradey", 50000);
+        Employee employee = new Employee("Bella", "Bradey", 50000);
 
 
         person.showName();

@@ -22,6 +22,7 @@ public class two_dimensional_array {
 
 
 
+
         for (String [] foods : groceries) {
             System.out.println(foods); // memory address
         }

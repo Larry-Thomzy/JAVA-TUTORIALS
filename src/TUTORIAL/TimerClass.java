@@ -26,6 +26,6 @@ public class TimerClass {
             }
         };
 
-        timer.schedule(task, 0); // (task, delay, period)
+        timer.schedule(task, 0, 1000); // (task, delay, period)
     }
 }

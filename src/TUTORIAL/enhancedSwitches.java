@@ -6,6 +6,7 @@ public class enhancedSwitches {
     public static void main (String [] args) {
         // Enhanced switch = A replacement to many else if statements (JAVA 14 feature)
         //
+        
 
 
         Scanner input = new Scanner(System.in);

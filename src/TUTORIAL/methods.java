@@ -36,6 +36,7 @@ public class methods {
 
 
         double result = square(5);
+        square(5);
 
         System.out.println(result);
         System.out.println(square(9));

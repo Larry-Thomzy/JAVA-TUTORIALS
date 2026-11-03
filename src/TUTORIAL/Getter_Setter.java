@@ -8,7 +8,9 @@ public class Getter_Setter {
 
         Car4 car = new Car4("Charger", "Yellow", 10000);
 
-        System.out.println(car.getColor() + " " + car.getModel() + " " + car.getPrice()); // can't access private attributes directly
+//        System.out.println(car.model()); // can't access private attributes directly
+
+        System.out.println(car.getColor() + " " + car.getModel() + " " + car.getPrice());
 
         // The attributes are public which means we can change them easily
 

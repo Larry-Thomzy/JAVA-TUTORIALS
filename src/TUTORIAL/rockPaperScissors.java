@@ -30,7 +30,6 @@ public class rockPaperScissors {
                 System.out.println("Invalid Choice");
             }
 
-
             computerChoice = choices[ram.nextInt(3)];
             System.out.println("Computer choice: " + computerChoice);
 

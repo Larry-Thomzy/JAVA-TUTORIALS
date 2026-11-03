@@ -59,6 +59,7 @@ public class whileLoop {
         }while (number < 1 || number > 10);
 
         System.out.println("You picked " + number);
+        
 
     }
 }
