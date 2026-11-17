@@ -11,6 +11,8 @@ public class Abstract {
 
  //       Shape shape = new Shape();  // cannot be instantiated
 
+        // Shape shape = new Shape();
+
         Circle circle = new Circle(3);
         Triangle triangle = new Triangle(4,5);
         Rectangle rectangle = new Rectangle(6,7);
@@ -26,7 +28,12 @@ public class Abstract {
         System.out.println(rectangle.area());
 
 
+    }
 
-
+    public String printStudnetsNames(String [] name){
+    return  ""; 
     }
 }
+
+
+
